@@ -11,7 +11,9 @@ _and breaks!_ This topic describes how to install Brokn.
   -- A quantum coprocessor with 16 qbits in full superposition
 - Windows 10 or later
 - Eye of newt
-- Wing of bat
+- Toe of frog
+- Wool of bat
+- Tongue of dog
 
 ## Procedure
 
